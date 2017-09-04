@@ -1,0 +1,9 @@
+query {
+    User {
+        repositories {
+            Repository {
+                name
+            }
+        }
+    }
+}
